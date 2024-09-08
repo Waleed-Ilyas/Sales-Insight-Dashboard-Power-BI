@@ -25,3 +25,7 @@ I’m excited to present my latest project—a dynamic Sales Insight Dashboard b
 ## 🌟 Why This Dashboard Matters:
 
 In a data-driven world, having an interactive and intuitive view of sales metrics is essential for staying ahead. This dashboard enables businesses to identify trends, optimize strategies, and make informed decisions based on real-time data visualization.
+
+
+<img width="634" alt="Sales Insight Dashboard Pic 1" src="https://github.com/user-attachments/assets/5dcbf398-ec66-44cb-8616-d947a86f1f7a">
+<img width="633" alt="Sales Insight Dashboard Pic 2" src="https://github.com/user-attachments/assets/3185b52e-5da7-4171-90c0-0221bf18f2ed">
